@@ -219,7 +219,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   /*font-family: $helveticaNeue;*/
-    font-family: "Roboto";
+    font-family: "Roboto Condensed";
   font-size: 18px;
 
   @include mobile {
@@ -273,7 +273,7 @@ nav {
 
   .read-more {
     text-transform: none;
-    font-size: 14px;
+    font-size: 15px;
       font-family: "Roboto Condensed";
   }
 }
