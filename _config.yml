@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+#
 # Name of your site (displayed in the header)
 name: Stefan Barkman
 
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: thebarkman
   instagram:
-  linkedin:
+  linkedin: stefan-barkman
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: stefan_barkman
