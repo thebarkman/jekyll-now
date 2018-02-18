@@ -119,10 +119,11 @@ img {
 }
 
 .date {
-  font-style: italic;
+ /* font-style: italic;*/
   color: $gray;
     font-family: Oswald;
     font-weight: 300;
+    opacity: 0.6;
 }
 
 // Specify the color of the selection
